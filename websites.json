@@ -368,5 +368,12 @@
         "about": "Portfolio Yo!",
         "url": "https://achira.is-a.dev/",
         "owner": "hrachiranadeeshan@gmail.com"
+    },
+    {
+        "name": "grid01101",
+        "slug": "grid01101",
+        "about": "Welcome to the grid, this is where I post my projects and ramblings",
+        "url": "https://grid01101.com",
+        "owner": "zenus260@gmail.com"
     }
 ]
